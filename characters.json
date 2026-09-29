@@ -1,0 +1,333 @@
+{
+  "series": "Suryaputra: The Last Legacy",
+
+  "global_character_rules": {
+    "art_style": "Original premium cinematic Indian mythology-inspired anime",
+    "consistency_priority": "EXTREME",
+    "rule_1": "Recurring characters must keep the same facial structure, hairstyle, skin tone, eye color, age appearance and body proportions across all episodes.",
+    "rule_2": "Default clothing remains consistent unless the screenplay explicitly requires a costume change.",
+    "rule_3": "Never redesign a character automatically between scenes.",
+    "rule_4": "Battle damage, dirt, rain and temporary injuries may change, but permanent physical identity must remain unchanged.",
+    "rule_5": "Do not imitate the exact visual style or character design of any existing anime franchise.",
+    "rule_6": "Every recurring character should eventually use an approved reference image as the primary visual reference."
+  },
+
+  "characters": {
+    "aarav": {
+      "full_name": "Aarav",
+      "role": "Main protagonist",
+      "age": 21,
+      "gender": "Male",
+      "nationality": "Indian",
+
+      "personality": [
+        "curious",
+        "protective",
+        "stubborn",
+        "courageous",
+        "emotionally resilient",
+        "occasionally impulsive",
+        "deeply loyal"
+      ],
+
+      "physical_design": {
+        "height": "Approximately 180 cm",
+        "build": "Athletic, lean and realistic rather than extremely muscular",
+        "skin_tone": "Warm medium Indian complexion",
+        "face": "Defined youthful face with a strong jawline, straight nose and expressive features",
+        "eyes": "Dark brown",
+        "hair": "Black, slightly messy medium-length layered hair",
+        "facial_hair": "Very light stubble",
+        "signature_mark": "Small subtle sun-shaped birthmark near the upper chest",
+        "default_expression": "Calm but observant"
+      },
+
+      "default_costume": {
+        "upper": "Dark charcoal jacket over a plain fitted black or deep grey T-shirt",
+        "lower": "Dark practical trousers",
+        "footwear": "Dark rugged boots",
+        "accessories": "Simple wristwatch",
+        "rule": "Do not add royal armor, crowns or mythological clothing to Aarav during the early story."
+      },
+
+      "power_visuals": {
+        "legacy": "Karna-associated fictional legacy",
+        "primary_color": "Warm golden",
+        "manifestation": "Protective golden energy forming geometric shield-like patterns around Aarav",
+        "secondary_effect": "Tiny glowing particles resembling sunlight",
+        "eye_effect": "A very subtle golden reflection may appear during activation",
+        "rule": "Early manifestations must look unstable and incomplete rather than fully controlled."
+      },
+
+      "voice_profile": {
+        "language": "Hindi/Hinglish",
+        "voice_age": "Young adult",
+        "tone": "Natural, confident and emotionally expressive",
+        "pitch": "Medium-low",
+        "delivery": "Conversational during normal scenes, intense during emotional or action scenes",
+        "rule": "Do not use an exaggerated superhero voice."
+      },
+
+      "character_arc": "A normal young man forced into an ancient supernatural conflict while searching for the truth behind his family's tragedy."
+    },
+
+    "vasu": {
+      "full_name": "Vasu",
+      "role": "Aarav's father figure",
+      "age": 52,
+      "gender": "Male",
+
+      "personality": [
+        "protective",
+        "disciplined",
+        "quiet",
+        "compassionate",
+        "secretive"
+      ],
+
+      "physical_design": {
+        "height": "Approximately 175 cm",
+        "build": "Average but physically capable",
+        "skin_tone": "Medium Indian complexion",
+        "face": "Mature face with gentle but serious features",
+        "eyes": "Dark brown",
+        "hair": "Short black hair with noticeable grey near the temples",
+        "facial_hair": "Short salt-and-pepper beard"
+      },
+
+      "default_costume": {
+        "upper": "Simple earth-toned shirt with a dark sleeveless jacket",
+        "lower": "Practical trousers",
+        "footwear": "Simple dark shoes"
+      },
+
+      "voice_profile": {
+        "language": "Hindi",
+        "voice_age": "Middle-aged",
+        "tone": "Warm, deep and composed",
+        "pitch": "Low",
+        "delivery": "Measured and protective"
+      },
+
+      "continuity_rule": "Vasu should visually communicate that he has lived an ordinary life while hiding an extraordinary secret."
+    },
+
+    "yashoda": {
+      "full_name": "Yashoda",
+      "role": "Aarav's mother figure",
+      "age": 47,
+      "gender": "Female",
+
+      "personality": [
+        "loving",
+        "emotionally strong",
+        "protective",
+        "warm",
+        "intuitive"
+      ],
+
+      "physical_design": {
+        "height": "Approximately 163 cm",
+        "build": "Average",
+        "skin_tone": "Warm medium Indian complexion",
+        "face": "Kind mature face with expressive eyes",
+        "eyes": "Dark brown",
+        "hair": "Long dark hair with a few subtle grey strands, usually tied back"
+      },
+
+      "default_costume": {
+        "style": "Simple elegant Indian clothing",
+        "primary_outfit": "Muted-color kurta with a light dupatta",
+        "rule": "Her design should feel grounded and realistic rather than royal or supernatural."
+      },
+
+      "voice_profile": {
+        "language": "Hindi",
+        "voice_age": "Middle-aged",
+        "tone": "Warm and comforting",
+        "pitch": "Medium",
+        "delivery": "Natural and emotionally expressive"
+      }
+    },
+
+    "jaya": {
+      "full_name": "Jaya",
+      "role": "Close member of Aarav's family",
+      "age": 17,
+      "gender": "Female",
+
+      "personality": [
+        "cheerful",
+        "intelligent",
+        "playful",
+        "brave",
+        "deeply attached to Aarav"
+      ],
+
+      "physical_design": {
+        "height": "Approximately 160 cm",
+        "build": "Slim",
+        "skin_tone": "Warm medium Indian complexion",
+        "face": "Youthful expressive face",
+        "eyes": "Dark brown",
+        "hair": "Long black hair, usually in a simple ponytail"
+      },
+
+      "default_costume": {
+        "style": "Modern casual Indian teenager",
+        "upper": "Simple hoodie, jacket or casual top",
+        "lower": "Jeans or practical trousers",
+        "footwear": "Sneakers"
+      },
+
+      "voice_profile": {
+        "language": "Hindi/Hinglish",
+        "voice_age": "Teenage",
+        "tone": "Bright, natural and energetic",
+        "pitch": "Medium-high",
+        "delivery": "Playful in normal scenes and emotionally intense during danger"
+      }
+    },
+
+    "acharya_vedant": {
+      "full_name": "Acharya Vedant",
+      "role": "Scholar, guardian and mentor",
+      "age": 64,
+      "gender": "Male",
+
+      "personality": [
+        "calm",
+        "intelligent",
+        "observant",
+        "secretive",
+        "spiritually disciplined"
+      ],
+
+      "physical_design": {
+        "height": "Approximately 178 cm",
+        "build": "Lean",
+        "skin_tone": "Medium Indian complexion",
+        "face": "Sharp mature features with deep thoughtful eyes",
+        "eyes": "Dark brown",
+        "hair": "Shoulder-length silver-grey hair",
+        "facial_hair": "Neatly maintained grey beard",
+        "signature_feature": "Small traditional tilak"
+      },
+
+      "default_costume": {
+        "style": "Traditional scholar blended with practical modern elements",
+        "upper": "Off-white kurta with a dark shawl",
+        "lower": "Simple traditional trousers",
+        "accessories": "Old rudraksha-style mala and a weathered leather satchel"
+      },
+
+      "voice_profile": {
+        "language": "Hindi with occasional Sanskrit terminology when contextually appropriate",
+        "voice_age": "Older adult",
+        "tone": "Deep, calm and authoritative",
+        "pitch": "Low",
+        "delivery": "Slow and deliberate without sounding theatrical"
+      },
+
+      "continuity_rule": "Vedant must never behave as if he knows every answer. His knowledge is incomplete."
+    },
+
+    "general_rahman": {
+      "full_name": "General Rahman",
+      "role": "Senior figure connected to Unit Seven",
+      "age": 55,
+      "gender": "Male",
+
+      "personality": [
+        "strategic",
+        "disciplined",
+        "controlled",
+        "intimidating",
+        "morally complex"
+      ],
+
+      "physical_design": {
+        "height": "Approximately 185 cm",
+        "build": "Broad and disciplined military physique",
+        "skin_tone": "Medium-brown Indian complexion",
+        "face": "Strong mature face with a prominent jaw",
+        "eyes": "Dark brown",
+        "hair": "Short dark hair with significant grey",
+        "facial_hair": "Closely trimmed grey beard",
+        "signature_feature": "Small old scar above the right eyebrow"
+      },
+
+      "default_costume": {
+        "style": "Modern covert military commander",
+        "upper": "Dark tactical field jacket without obvious national military insignia",
+        "lower": "Dark tactical trousers",
+        "footwear": "Black tactical boots",
+        "rule": "Unit Seven is fictional. Avoid real military unit insignia."
+      },
+
+      "voice_profile": {
+        "language": "Hindi/Hinglish",
+        "voice_age": "Mature adult",
+        "tone": "Deep, controlled and commanding",
+        "pitch": "Low",
+        "delivery": "Short deliberate sentences"
+      },
+
+      "character_rule": "Do not visually or narratively reveal whether Rahman is ultimately an ally or antagonist during the early episodes."
+    },
+
+    "malik": {
+      "known_name": "Malik",
+      "role": "Mysterious antagonist",
+      "age": "Unknown",
+      "gender": "Male",
+
+      "identity_rule": "His complete identity must remain hidden during the early story.",
+
+      "personality": [
+        "calculating",
+        "patient",
+        "highly intelligent",
+        "manipulative",
+        "mysterious"
+      ],
+
+      "early_visual_design": {
+        "face_visibility": "Mostly concealed",
+        "silhouette": "Tall lean male figure",
+        "clothing": "Long dark contemporary coat with minimal details",
+        "eyes": "Occasionally visible through shadow",
+        "signature_visual": "A damaged ancient-looking metallic ring",
+        "rule": "Never accidentally reveal Malik's full face in early generated shots."
+      },
+
+      "voice_profile": {
+        "language": "Hindi",
+        "voice_age": "Difficult to determine",
+        "tone": "Calm, unsettling and intelligent",
+        "pitch": "Medium-low",
+        "delivery": "Controlled, never shouting unnecessarily"
+      },
+
+      "story_rule": "Do not reveal Malik's origin, complete powers or final objective until the planned story progression allows it."
+    }
+  },
+
+  "relationship_rules": {
+    "aarav_and_vasu": "Strong father-son emotional bond with hidden secrets between them.",
+    "aarav_and_yashoda": "Deep maternal attachment and emotional safety.",
+    "aarav_and_jaya": "Playful but strongly protective family relationship.",
+    "aarav_and_vedant": "Initially distrustful mentor-student relationship that develops gradually.",
+    "aarav_and_rahman": "Uncertain relationship; Aarav cannot initially determine whether Rahman is helping or manipulating him.",
+    "aarav_and_malik": "Personal mystery and conflict connected to Aarav's family tragedy."
+  },
+
+  "generation_rules": {
+    "before_generating_visuals": "Read the complete profile of every character appearing in the scene.",
+    "before_generating_dialogue": "Read the personality and voice profile of the speaking character.",
+    "reference_images": "Once approved character reference images exist, use them together with these descriptions.",
+    "continuity": "Previously approved visual references override accidental visual variations produced by later generations.",
+    "no_random_changes": "Never randomly change hairstyle, skin tone, facial structure, age appearance or body proportions.",
+    "costume_changes": "Only change costumes when required by the story and preserve the character's physical identity."
+  }
+}
