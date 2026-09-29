@@ -32,30 +32,43 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Generate episode screenplay
+      # STEP 1 — Generate raw episode screenplay
+      - name: Generate episode draft
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           EPISODE_NUMBER: ${{ inputs.episode_number }}
         run: |
           python generate_episode.py
 
-      - name: Upload episode artifact
+      # STEP 2 — Polish + continuity check
+      - name: Polish episode
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          EPISODE_NUMBER: ${{ inputs.episode_number }}
+        run: |
+          python polish_episode.py
+
+      # STEP 3 — Upload both versions
+      - name: Upload episode files
         uses: actions/upload-artifact@v4
         with:
-          name: episode-${{ inputs.episode_number }}-draft
-          path: episode_*_draft.json
+          name: episode-${{ inputs.episode_number }}-screenplay
+          path: |
+            episode_*_draft.json
+            episode_*_final.json
           if-no-files-found: error
 
-      - name: Save generated episode to repository
+      # STEP 4 — Save generated files permanently in repository
+      - name: Commit generated episode
         run: |
           git config user.name "mythology-story-bot"
           git config user.email "mythology-story-bot@users.noreply.github.com"
 
-          git add episode_*_draft.json
+          git add episode_*_draft.json episode_*_final.json
 
           if git diff --cached --quiet; then
-            echo "No new episode file to commit."
+            echo "No episode changes to commit."
           else
-            git commit -m "Generate episode ${{ inputs.episode_number }} draft"
+            git commit -m "Generate and polish episode ${{ inputs.episode_number }}"
             git push
           fi
