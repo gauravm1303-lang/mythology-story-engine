@@ -1,0 +1,262 @@
+{
+  "series": {
+    "title": "Suryaputra: The Last Legacy",
+    "language": "Hinglish",
+    "genre": [
+      "Indian Mythology",
+      "Dark Fantasy",
+      "Mystery",
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "format": "Cinematic Anime Series",
+    "timeline": "Present-day India",
+    "episode_target_minutes": "10-15",
+    "season_1_target_episodes": 20
+  },
+
+  "creative_direction": {
+    "core_rule": "The story is original fiction inspired by Indian mythology. Mythological figures and established traditions must be treated respectfully, while fictional events, organizations, artifacts and modern characters must not be presented as historical fact.",
+    "visual_style": "Original cinematic Indian mythology-inspired anime aesthetic with dramatic lighting, detailed environments, expressive characters and epic supernatural effects.",
+    "tone": "Mysterious, emotional, suspenseful, heroic and occasionally dark.",
+    "storytelling_style": "A modern mystery gradually revealing an ancient mythological conflict.",
+    "violence_style": "Cinematic fantasy action without excessive gore.",
+    "romance": "Optional slow-burn subplot only when it naturally serves the story."
+  },
+
+  "world": {
+    "present_day": "Modern India",
+    "primary_locations": [
+      "Dehradun",
+      "Himalayan regions",
+      "ancient temples",
+      "hidden underground chambers",
+      "archaeological sites",
+      "modern Indian cities"
+    ],
+    "hidden_truth": "Certain divine energies and artifacts associated with ancient mythology survived into the modern age but were deliberately concealed from humanity.",
+    "public_awareness": "Ordinary people do not know that these supernatural forces exist."
+  },
+
+  "ancient_legacy": {
+    "source": "Karna",
+    "principle": "The protagonist is NOT Karna's reincarnation.",
+    "legacy": "An ancient divine protection connected symbolically to Karna's Kavach and Kundal was sealed after the Mahabharata era.",
+    "important_rule": "The original mythological narrative must not be rewritten as historical fact. The modern artifact and its later history are fictional extensions created for this series.",
+    "seal": "The power cannot simply be taken. It responds only when specific conditions of courage, sacrifice and intent are fulfilled.",
+    "mystery": "Nobody initially knows why Aarav can awaken the sealed legacy."
+  },
+
+  "second_mythological_axis": {
+    "connection": "Lakshmana",
+    "concept": "A separate divine weapon tradition connected to Lakshmana becomes important later in the story.",
+    "relationship_to_karna_legacy": "The two powers originate from different mythological traditions and were never designed to work together.",
+    "season_mystery": "Someone in the modern era is deliberately trying to bring both legacies into the same conflict."
+  },
+
+  "protagonist": {
+    "name": "Aarav",
+    "age": 21,
+    "role": "Main protagonist",
+    "personality": [
+      "curious",
+      "protective",
+      "stubborn",
+      "emotionally resilient",
+      "occasionally impulsive",
+      "deeply loyal"
+    ],
+    "starting_state": "An apparently ordinary young man unaware of the supernatural world.",
+
+    "visual_identity": {
+      "hair": "Black, slightly messy medium-length hair",
+      "eyes": "Dark brown",
+      "build": "Athletic but realistic",
+      "signature_mark": "A subtle sun-shaped birthmark",
+      "default_clothing": "Modern practical clothing with a dark jacket",
+      "anime_design_rule": "His facial structure, hairstyle, birthmark and body proportions must remain consistent across every episode."
+    },
+
+    "core_conflict": "Aarav wants answers about the destruction of his family while slowly discovering that something ancient has chosen to protect him.",
+
+    "power_progression_rule": "Aarav must learn his abilities gradually. He cannot instantly master divine powers."
+  },
+
+  "family": {
+    "Vasu": {
+      "relationship": "Father figure",
+      "role": "Knows more about Aarav's origin than he initially reveals",
+      "status_at_series_start": "Alive at the beginning of Episode 1"
+    },
+
+    "Yashoda": {
+      "relationship": "Mother figure",
+      "role": "Emotional center of Aarav's early life",
+      "status_at_series_start": "Alive at the beginning of Episode 1"
+    },
+
+    "Jaya": {
+      "relationship": "Close family member",
+      "role": "Part of Aarav's emotional attachment to his ordinary life",
+      "status_at_series_start": "Alive at the beginning of Episode 1"
+    }
+  },
+
+  "mentor": {
+    "name": "Acharya Vedant",
+    "role": "Scholar, guardian and keeper of fragments of ancient knowledge",
+
+    "personality": [
+      "calm",
+      "intelligent",
+      "secretive",
+      "spiritually disciplined"
+    ],
+
+    "knowledge_rule": "Vedant knows fragments of the truth but does not possess complete knowledge of the ancient conflict.",
+
+    "story_function": "Guides Aarav without becoming an all-knowing exposition device."
+  },
+
+  "modern_faction": {
+    "name": "Unit Seven",
+    "public_status": "Unknown",
+
+    "nature": "Secret modern organization researching ancient supernatural artifacts",
+
+    "methods": [
+      "surveillance",
+      "archaeological infiltration",
+      "advanced technology",
+      "covert operations"
+    ],
+
+    "moral_status": "Ambiguous at the beginning",
+
+    "rule": "Not every member of Unit Seven is evil."
+  },
+
+  "major_character": {
+    "name": "General Rahman",
+    "connection": "Unit Seven",
+
+    "initial_role": "Powerful figure operating behind several early events",
+
+    "character_rule": "His true motives must be revealed gradually rather than immediately labeling him hero or villain."
+  },
+
+  "mysterious_antagonist": {
+    "codename": "Malik",
+
+    "initial_information": "Only the name Malik is known during the earliest part of the story.",
+
+    "rule": "Do not reveal Malik's complete identity, powers or motivation too early.",
+
+    "story_function": "A recurring thread connecting seemingly unrelated events."
+  },
+
+  "power_system": {
+    "name": "Divya Resonance",
+
+    "principle": "Ancient divine artifacts respond to character, intent and sacrifice rather than simple physical strength.",
+
+    "rules": [
+      "Divine power always has limitations.",
+      "Using advanced abilities carries physical or emotional consequences.",
+      "Artifacts cannot solve every conflict.",
+      "Training and experience matter.",
+      "Different divine legacies follow different rules.",
+      "Technology can detect or interact with some manifestations but cannot fully reproduce divine power."
+    ],
+
+    "forbidden_rule": "No character becomes infinitely powerful without meaningful consequences."
+  },
+
+  "karna_legacy_power": {
+    "early_manifestation": "A brief golden defensive energy resembling a protective shield.",
+
+    "visual_signature": [
+      "warm golden energy",
+      "sun-like geometric patterns",
+      "subtle ancient symbols",
+      "protective rather than immediately destructive effects"
+    ],
+
+    "initial_limitations": [
+      "activates unpredictably",
+      "Aarav cannot consciously summon it",
+      "causes severe exhaustion",
+      "does not make Aarav invulnerable"
+    ],
+
+    "future_growth": "Additional abilities unlock only through major character development and story milestones."
+  },
+
+  "season_1": {
+    "central_question": "Why can Aarav awaken a legacy that should have remained sealed?",
+
+    "secondary_question": "Who is trying to unite multiple ancient divine legacies and why?",
+
+    "emotional_arc": "Aarav moves from grief and confusion toward accepting responsibility without losing his humanity.",
+
+    "story_progression": [
+      "ordinary world disrupted",
+      "family tragedy",
+      "first supernatural awakening",
+      "search for Malik",
+      "discovery of Unit Seven",
+      "training and investigation",
+      "ancient clues uncovered",
+      "second divine legacy revealed",
+      "betrayal or hidden agenda exposed",
+      "major confrontation",
+      "season-ending revelation"
+    ],
+
+    "ending_rule": "Season 1 must answer at least one major mystery while revealing a larger threat for the next season."
+  },
+
+  "episode_rules": {
+    "opening": "Every episode should begin with a compelling event, mystery, danger or emotional hook.",
+
+    "pacing": "Alternate dialogue, investigation, emotion, discovery and action instead of continuous exposition.",
+
+    "cliffhanger": "Most episodes should end with a meaningful revelation, danger or unanswered question.",
+
+    "continuity": "Never contradict confirmed events from previous episodes.",
+
+    "character_deaths": "A dead character cannot return without an explicitly established supernatural explanation.",
+
+    "power_continuity": "Characters cannot use abilities they have not yet unlocked.",
+
+    "knowledge_continuity": "Characters cannot know information they have not learned.",
+
+    "visual_continuity": "Recurring characters must retain their established physical design.",
+
+    "avoid_repetition": "Do not recycle the same conflict, revelation or cliffhanger across episodes."
+  },
+
+  "ai_generation_rules": {
+    "story_model_role": "Create the initial episode plot and screenplay while following this universe.",
+
+    "editor_model_role": "Improve dialogue, emotion, pacing, suspense and cinematic quality without changing established canon.",
+
+    "continuity_checker_role": "Check every episode against the universe rules and previous episode history before production.",
+
+    "visual_model_role": "Generate original anime-style characters and environments while maintaining recurring character consistency.",
+
+    "important": "No AI stage may silently change established canon."
+  },
+
+  "production": {
+    "stock_footage": false,
+    "original_ai_visuals": true,
+    "animation": true,
+    "multiple_character_voices": true,
+    "subtitles": true,
+    "background_music": true,
+    "sound_effects": true,
+    "manual_final_edit": true
+  }
+}
