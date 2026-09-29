@@ -1,0 +1,406 @@
+{
+  "series": "Suryaputra: The Last Legacy",
+  "season": 1,
+  "total_episodes": 20,
+  "target_episode_duration": "10-15 minutes",
+
+  "season_core": {
+    "main_question": "Why can Aarav awaken the sealed legacy connected to Karna?",
+    "secondary_question": "Why is someone trying to bring Karna's legacy and a separate divine weapon tradition connected to Lakshmana into the same conflict?",
+    "main_emotional_arc": "Aarav begins as an ordinary young man, loses the life he knew, searches for the truth and gradually accepts responsibility for a power he never asked for.",
+    "main_threat": "Malik is searching for ancient divine resonance sites while Unit Seven secretly tracks the same phenomenon.",
+    "season_rule": "Do not reveal every mystery in Season 1. Each answer should naturally uncover a larger question."
+  },
+
+  "episodes": [
+    {
+      "episode": 1,
+      "title": "The Golden Shield",
+      "purpose": "Destroy Aarav's ordinary life and introduce the central mystery.",
+      "plot": [
+        "A violent storm hits Dehradun while Aarav experiences an unexplained burning sensation around his sun-shaped birthmark.",
+        "Aarav lives with Vasu, Yashoda and Jaya and initially appears to be an ordinary 21-year-old.",
+        "Acharya Vedant notices unusual signs near an ancient temple and senses that something dormant has awakened.",
+        "A mysterious black vehicle connected to Unit Seven is seen monitoring the area.",
+        "Armed attackers arrive searching for something Vasu has secretly protected for years.",
+        "During the attack, Yashoda and Jaya are killed.",
+        "Vasu sacrifices himself while trying to save Aarav.",
+        "When Aarav is about to die, an unstable golden shield suddenly manifests around him.",
+        "The attackers retreat after witnessing the phenomenon.",
+        "Among the fragments left behind, Aarav discovers his first clue: the name Malik."
+      ],
+      "character_progression": "Aarav changes from an ordinary young man into a traumatized survivor searching for answers.",
+      "power_progression": "First involuntary manifestation of the golden defensive energy.",
+      "major_reveal": "Vasu had been hiding knowledge connected to Aarav.",
+      "cliffhanger": "Far away, Acharya Vedant looks toward the storm and says that the sealed door has opened."
+    },
+
+    {
+      "episode": 2,
+      "title": "The Name Malik",
+      "purpose": "Begin Aarav's investigation and establish that powerful groups are watching him.",
+      "plot": [
+        "Aarav wakes after the attack with fragmented memories of the golden shield.",
+        "Authorities cannot explain several unusual traces found at the destroyed location.",
+        "Aarav secretly keeps the clue containing Malik's name.",
+        "He discovers that Vasu maintained a hidden compartment containing an old map and coded notes.",
+        "Unknown surveillance teams begin following Aarav.",
+        "Aarav attempts to locate Acharya Vedant after finding his name inside Vasu's notes.",
+        "A Unit Seven operative observes Aarav but deliberately allows him to leave."
+      ],
+      "character_progression": "Grief begins turning into determination.",
+      "power_progression": "No controlled power use.",
+      "major_reveal": "Vasu knew Acharya Vedant.",
+      "cliffhanger": "Aarav reaches Vedant's temple, where Vedant addresses him by name before Aarav introduces himself."
+    },
+
+    {
+      "episode": 3,
+      "title": "The Keeper",
+      "purpose": "Introduce Vedant and the idea that ancient divine forces survived.",
+      "plot": [
+        "Aarav confronts Vedant and demands answers about Vasu.",
+        "Vedant reveals that Vasu belonged to a quiet network protecting ancient knowledge.",
+        "He refuses to explain Aarav's connection to the golden energy because he does not fully understand it himself.",
+        "Vedant shows Aarav records describing rare events called Divine Resonance.",
+        "Aarav initially rejects the supernatural explanation.",
+        "An intruder enters the temple searching for Vasu's map.",
+        "Aarav instinctively produces a brief flash of golden protection."
+      ],
+      "character_progression": "Aarav begins reluctantly trusting Vedant.",
+      "power_progression": "Second involuntary manifestation lasting only seconds.",
+      "major_reveal": "The phenomenon affecting Aarav has appeared in ancient records.",
+      "cliffhanger": "Vedant sees the golden pattern and recognizes a symbol associated with an ancient solar legacy."
+    },
+
+    {
+      "episode": 4,
+      "title": "Echo of the Sun",
+      "purpose": "Connect the mystery symbolically to Karna without explaining everything.",
+      "plot": [
+        "Vedant studies the pattern produced by Aarav's power.",
+        "Ancient manuscripts contain descriptions associated with protection, sacrifice and solar energy.",
+        "The clues point toward traditions surrounding Karna's Kavach and Kundal.",
+        "Vedant makes clear that Aarav is not being identified as Karna's reincarnation.",
+        "Aarav discovers Vasu had visited a remote archaeological site months before the attack.",
+        "Aarav and Vedant decide to investigate the site.",
+        "Unit Seven intercepts communications related to their journey."
+      ],
+      "character_progression": "Aarav starts accepting that his family's secret is larger than he imagined.",
+      "power_progression": "Aarav begins attempting to understand what triggers the shield.",
+      "major_reveal": "The golden phenomenon appears connected to a fictional surviving legacy associated with Karna.",
+      "cliffhanger": "General Rahman receives Aarav's photograph and orders his team not to harm him."
+    },
+
+    {
+      "episode": 5,
+      "title": "Unit Seven",
+      "purpose": "Introduce General Rahman and create uncertainty about Unit Seven.",
+      "plot": [
+        "Aarav and Vedant travel toward the archaeological site.",
+        "A Unit Seven team intercepts them.",
+        "Aarav assumes the organization was responsible for his family's deaths.",
+        "General Rahman meets Aarav for the first time.",
+        "Rahman claims Unit Seven was monitoring the attackers rather than assisting them.",
+        "He refuses to reveal everything he knows about Malik.",
+        "The meeting is interrupted by an attack from unidentified mercenaries."
+      ],
+      "character_progression": "Aarav learns that the conflict may involve more than two sides.",
+      "power_progression": "The shield briefly protects another person for the first time.",
+      "major_reveal": "Unit Seven and Malik appear to be opposing forces.",
+      "cliffhanger": "Rahman tells Aarav that Malik has been searching for him since before Aarav knew Malik existed."
+    },
+
+    {
+      "episode": 6,
+      "title": "The First Seal",
+      "purpose": "Reveal the first physical piece of the ancient mystery.",
+      "plot": [
+        "The group reaches a concealed chamber beneath the archaeological site.",
+        "Ancient markings react faintly to Aarav's presence.",
+        "Vedant determines that the chamber was designed to protect something rather than imprison it.",
+        "Aarav experiences fragmented visions but cannot understand whether they are memories or resonance effects.",
+        "They discover an empty pedestal showing that an artifact was removed recently.",
+        "Evidence suggests Malik reached the chamber before them."
+      ],
+      "character_progression": "Aarav realizes revenge alone will not solve the mystery.",
+      "power_progression": "Aarav intentionally triggers a tiny spark of golden energy for the first time.",
+      "major_reveal": "Malik is collecting physical components connected to ancient resonance sites.",
+      "cliffhanger": "A second symbol is found beside the solar markings, and Vedant recognizes that it belongs to a completely different ancient tradition."
+    },
+
+    {
+      "episode": 7,
+      "title": "Two Legacies",
+      "purpose": "Introduce the second mythological axis.",
+      "plot": [
+        "Vedant investigates the second symbol.",
+        "The evidence leads toward traditions connected to Lakshmana and a lost divine weapon lineage.",
+        "Vedant is disturbed because the two traditions should have no reason to appear together.",
+        "Rahman reveals that Unit Seven has discovered similar paired symbols at other sites.",
+        "Aarav begins basic physical and mental training to control his reactions.",
+        "A hidden observer reports Aarav's progress to Malik."
+      ],
+      "character_progression": "Aarav begins training because he wants control rather than greater power.",
+      "power_progression": "Basic defensive manifestation becomes slightly more repeatable.",
+      "major_reveal": "Someone has deliberately connected two separate divine legacies.",
+      "cliffhanger": "Malik receives the report and says that Aarav has finally begun opening the path."
+    },
+
+    {
+      "episode": 8,
+      "title": "Resonance",
+      "purpose": "Define the limitations of the power system.",
+      "plot": [
+        "Vedant teaches Aarav that divine resonance responds to intent rather than anger alone.",
+        "Aarav repeatedly fails while trying to summon the shield.",
+        "Memories of his family cause him to lose emotional control.",
+        "A dangerous training incident nearly injures Vedant.",
+        "Aarav finally activates the shield while protecting someone rather than himself.",
+        "The effort leaves him physically exhausted."
+      ],
+      "character_progression": "Aarav understands that protection, not rage, is central to his legacy.",
+      "power_progression": "First deliberate defensive activation.",
+      "major_reveal": "The power responds differently depending on Aarav's intention.",
+      "cliffhanger": "Unit Seven detects a massive resonance pulse from somewhere deep in the Himalayas."
+    },
+
+    {
+      "episode": 9,
+      "title": "The Himalayan Signal",
+      "purpose": "Expand the scale of the story.",
+      "plot": [
+        "Aarav, Vedant and a Unit Seven team travel toward the source of the Himalayan pulse.",
+        "The expedition encounters environmental anomalies and malfunctioning electronics.",
+        "Aarav begins sensing the direction of the resonance without equipment.",
+        "They discover ruins hidden inside a mountain passage.",
+        "Someone has recently entered the supposedly untouched ruins."
+      ],
+      "character_progression": "Aarav begins functioning as part of a team despite distrusting Unit Seven.",
+      "power_progression": "Passive sensitivity to divine resonance emerges.",
+      "major_reveal": "Divine resonance can affect modern technology.",
+      "cliffhanger": "Inside the ruins they find a wall covered with recent blood beside an ancient sealed doorway."
+    },
+
+    {
+      "episode": 10,
+      "title": "Behind the Door",
+      "purpose": "Deliver the mid-season escalation.",
+      "plot": [
+        "The group attempts to understand the sealed doorway.",
+        "Aarav's presence activates part of the mechanism.",
+        "Malik's operatives attack the expedition.",
+        "Aarav is forced into his first extended supernatural confrontation.",
+        "The doorway partially opens during the battle.",
+        "Inside is not a weapon but an ancient mechanism designed to locate other resonance sites.",
+        "Malik's operatives steal a key component."
+      ],
+      "character_progression": "Aarav chooses to continue the mission despite having an opportunity to escape.",
+      "power_progression": "Longer shield duration but severe exhaustion afterward.",
+      "major_reveal": "The ancient sites form a connected network.",
+      "cliffhanger": "The stolen component activates and projects the location of several dormant sites across India."
+    },
+
+    {
+      "episode": 11,
+      "title": "The Network",
+      "purpose": "Reveal the scale of Malik's plan.",
+      "plot": [
+        "Unit Seven analyzes the partial map of resonance sites.",
+        "Vedant believes the network was deliberately separated centuries ago.",
+        "Aarav discovers Vasu had marked one of the same locations in his private notes.",
+        "Evidence suggests Vasu knew the network might reactivate.",
+        "Rahman admits Unit Seven has secretly studied the phenomenon for years.",
+        "Aarav accuses Rahman of withholding information that could have saved his family."
+      ],
+      "character_progression": "Trust between Aarav and Rahman deteriorates.",
+      "power_progression": "No major new ability.",
+      "major_reveal": "Vasu was preparing for the network's reactivation.",
+      "cliffhanger": "A hidden file reveals Vasu once worked directly with Unit Seven."
+    },
+
+    {
+      "episode": 12,
+      "title": "Vasu's Secret",
+      "purpose": "Reframe Aarav's understanding of his father figure.",
+      "plot": [
+        "Rahman reveals portions of Vasu's history with Unit Seven.",
+        "Vasu left after disagreeing with experiments involving ancient artifacts.",
+        "He believed certain powers should remain sealed.",
+        "Aarav discovers that Vasu's decision to leave was connected to protecting him.",
+        "Vedant suspects Vasu knew Aarav would eventually trigger a resonance event.",
+        "A surviving recording from Vasu is discovered."
+      ],
+      "character_progression": "Aarav struggles with anger toward Vasu while understanding the sacrifices made to protect him.",
+      "power_progression": "Emotional instability temporarily weakens Aarav's control.",
+      "major_reveal": "Vasu deliberately hid Aarav from organizations studying divine resonance.",
+      "cliffhanger": "In the recording Vasu warns Aarav: 'Malik is not the beginning of this war.'"
+    },
+
+    {
+      "episode": 13,
+      "title": "The Broken Weapon",
+      "purpose": "Advance the Lakshmana-linked mystery.",
+      "plot": [
+        "Clues from Vasu's recording lead to another hidden site.",
+        "The site contains fragments associated with the second divine weapon tradition.",
+        "The fragments appear damaged deliberately.",
+        "Vedant concludes that someone in the past separated the weapon's components to prevent its use.",
+        "Malik's operatives arrive searching for the largest fragment.",
+        "Aarav must protect the fragment without fully understanding its purpose."
+      ],
+      "character_progression": "Aarav begins protecting the larger world rather than pursuing only personal revenge.",
+      "power_progression": "The shield can briefly expand to cover multiple people.",
+      "major_reveal": "The second legacy is incomplete and Malik is trying to reconstruct it.",
+      "cliffhanger": "One fragment reacts to Aarav's golden energy even though Vedant believes the two powers should be incompatible."
+    },
+
+    {
+      "episode": 14,
+      "title": "Impossible Resonance",
+      "purpose": "Deepen the central mystery surrounding Aarav.",
+      "plot": [
+        "Unit Seven conducts non-invasive tests on the fragment.",
+        "The artifact remains inactive for everyone except Aarav.",
+        "Rahman becomes increasingly concerned about Aarav's unique resonance.",
+        "Vedant argues that Aarav should not be treated as an experiment.",
+        "Aarav experiences another fragmented vision involving two different forms of divine energy.",
+        "Malik secretly receives data from inside Unit Seven."
+      ],
+      "character_progression": "Aarav becomes suspicious that someone within Unit Seven is helping Malik.",
+      "power_progression": "No new controlled ability.",
+      "major_reveal": "There is a traitor or information leak inside Unit Seven.",
+      "cliffhanger": "Malik receives Aarav's confidential resonance data almost immediately after the test."
+    },
+
+    {
+      "episode": 15,
+      "title": "The Traitor",
+      "purpose": "Turn the conflict inward.",
+      "plot": [
+        "Rahman begins secretly investigating Unit Seven personnel.",
+        "Aarav and Vedant conduct their own investigation.",
+        "False evidence initially points toward an innocent operative.",
+        "Malik uses the confusion to launch an operation against a secured artifact facility.",
+        "Aarav realizes the internal leak was designed to distract them.",
+        "The true informant escapes before being identified completely."
+      ],
+      "character_progression": "Aarav begins thinking strategically rather than reacting emotionally.",
+      "power_progression": "Improved control during a short combat sequence.",
+      "major_reveal": "Malik has had access to Unit Seven intelligence for years.",
+      "cliffhanger": "Security footage shows the escaping informant meeting a figure wearing Malik's distinctive damaged ring."
+    },
+
+    {
+      "episode": 16,
+      "title": "Malik",
+      "purpose": "Give Aarav his first direct encounter with Malik without revealing everything.",
+      "plot": [
+        "Aarav follows the trail left by the informant.",
+        "He enters an abandoned underground complex against Rahman's orders.",
+        "Malik finally speaks directly to Aarav.",
+        "Malik claims Vasu and Unit Seven both hid the truth about Aarav.",
+        "He deliberately avoids explaining Aarav's origin.",
+        "Aarav attacks after Malik mentions his family.",
+        "Malik easily manipulates the environment and forces Aarav into retreat without revealing his full abilities."
+      ],
+      "character_progression": "Aarav learns that anger makes him predictable.",
+      "power_progression": "The shield becomes unstable when Aarav fights purely from rage.",
+      "major_reveal": "Malik appears to know the truth about Aarav's connection to the ancient network.",
+      "cliffhanger": "Before disappearing, Malik tells Aarav that the golden shield was never meant to awaken in him."
+    },
+
+    {
+      "episode": 17,
+      "title": "The Unchosen Heir",
+      "purpose": "Challenge Aarav's belief that he was destined for the power.",
+      "plot": [
+        "Aarav questions whether the legacy chose him at all.",
+        "Vedant investigates old records using information taken from Malik's complex.",
+        "Evidence suggests the sealed legacy was designed to respond to qualities rather than bloodline.",
+        "Aarav realizes that inheritance and worthiness may be different concepts.",
+        "Rahman discovers Malik is preparing to activate several resonance sites simultaneously."
+      ],
+      "character_progression": "Aarav stops viewing himself as a chosen hero and begins viewing his actions as choices.",
+      "power_progression": "His control improves after accepting that power does not define his identity.",
+      "major_reveal": "The legacy may not depend on ancestry.",
+      "cliffhanger": "Multiple dormant sites activate at exactly the same moment."
+    },
+
+    {
+      "episode": 18,
+      "title": "The Awakening",
+      "purpose": "Begin the season finale arc.",
+      "plot": [
+        "Resonance disturbances appear across several locations.",
+        "Unit Seven struggles to contain the events without exposing the supernatural world publicly.",
+        "Malik uses the network to locate the final component required for the second legacy.",
+        "Aarav, Vedant and Rahman form an uneasy alliance.",
+        "Aarav discovers that his shield can temporarily stabilize an unstable resonance site.",
+        "Doing so nearly causes him to collapse."
+      ],
+      "character_progression": "Aarav willingly risks himself for strangers.",
+      "power_progression": "The golden energy can stabilize a resonance disturbance for a short period.",
+      "major_reveal": "Aarav's power may function as a key or stabilizer within the ancient network.",
+      "cliffhanger": "Malik obtains the location of the final sealed chamber."
+    },
+
+    {
+      "episode": 19,
+      "title": "The Final Chamber",
+      "purpose": "Bring every major Season 1 faction into the same conflict.",
+      "plot": [
+        "Malik's forces, Unit Seven and Aarav converge on the final chamber.",
+        "Vedant discovers inscriptions explaining that combining incompatible divine resonances could cause catastrophic consequences.",
+        "Malik begins activating the reconstructed mechanism.",
+        "Rahman's forces attempt to stop him.",
+        "Aarav uses the golden shield at a level beyond anything previously attempted.",
+        "The chamber begins collapsing as both resonance signatures interact."
+      ],
+      "character_progression": "Aarav fully accepts responsibility without believing himself invincible.",
+      "power_progression": "Strongest defensive manifestation of the season, with extreme physical cost.",
+      "major_reveal": "Malik does not intend simply to possess the artifacts; he wants to open something the network was designed to keep inaccessible.",
+      "cliffhanger": "The mechanism activates despite their attempt to stop it."
+    },
+
+    {
+      "episode": 20,
+      "title": "The Door Beyond",
+      "purpose": "Resolve the immediate Season 1 conflict while opening the larger saga.",
+      "plot": [
+        "The activated mechanism creates a massive resonance event inside the chamber.",
+        "Aarav chooses to protect the others instead of pursuing Malik.",
+        "His golden shield stabilizes part of the collapsing network.",
+        "Malik fails to achieve his complete objective but escapes with crucial information.",
+        "The second divine weapon remains incomplete.",
+        "Unit Seven survives but its secrets are now vulnerable.",
+        "Vedant discovers an inscription that changes their understanding of the ancient network.",
+        "Aarav finally understands that his family's deaths were connected to a much older conflict, but not for the reason he originally believed.",
+        "The immediate resonance event is stopped."
+      ],
+      "character_progression": "Aarav ends the season as a more disciplined protector while still carrying unresolved grief.",
+      "power_progression": "Aarav gains reliable basic control of the golden defensive power but remains far from mastering the legacy.",
+      "season_answer": "The golden legacy responds primarily to qualities of sacrifice and protective intent rather than simply to bloodline.",
+      "unresolved_mysteries": [
+        "Why did Aarav uniquely trigger the ancient network?",
+        "What lies beyond the sealed system?",
+        "What is Malik's complete identity?",
+        "Who originally connected the two divine traditions?",
+        "What did Vasu know that he never revealed?"
+      ],
+      "final_cliffhanger": "Far beneath an unknown ancient location, something reacts to the resonance pulse. A previously unseen symbol begins glowing in the darkness."
+    }
+  ],
+
+  "continuity_rules": {
+    "rule_1": "Episodes must be generated in chronological order.",
+    "rule_2": "The AI must read mythology_universe.json, characters.json and this file before writing an episode.",
+    "rule_3": "Do not reveal future episode information early unless explicitly written as foreshadowing.",
+    "rule_4": "Aarav must not suddenly gain abilities scheduled for later episodes.",
+    "rule_5": "Malik's full identity and objective remain unresolved at the end of Season 1.",
+    "rule_6": "General Rahman's morality must remain complex rather than becoming a simple hero or villain.",
+    "rule_7": "Previously established injuries, deaths, discoveries and relationships must carry forward.",
+    "rule_8": "Each episode should feel like part of one continuous story rather than an independent adventure.",
+    "rule_9": "Mythological references should be respectful and distinguish established mythology from the fictional extensions created for this series."
+  }
+}
