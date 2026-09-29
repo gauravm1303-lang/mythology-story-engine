@@ -1,0 +1,545 @@
+{
+  "episode_number": 1,
+  "title": "The Golden Shield",
+  "target_duration_minutes": 12,
+  "opening_hook": "A violent midnight tempest batters the hills of Dehradun as twenty-one-year-old Aarav wakes to a searing, golden burn pulsing beneath his skin from a sun-shaped birthmark.",
+  "scenes": [
+    {
+      "scene_number": 1,
+      "location": "Aarav's Bedroom, Modest Hillside Home, Dehradun",
+      "time": "Night",
+      "characters": [
+        "Aarav"
+      ],
+      "visual_description": "Rain lashes violently against the glass window panes. Lightning illuminates a clean, modestly furnished bedroom with wooden shelves, college textbooks, and framed landscape sketches. Aarav, a lean athletic twenty-one-year-old with layered messy black hair, sits abruptly upright on his bed. His breathing is ragged, sweat gleaming on his forehead. He clenches his hand over the upper left side of his chest under his dark t-shirt. Beneath the fabric, an amber-gold glow emanates faintly through his fingers, outlining a distinct sunburst birthmark. The glow flickers erratically like a dying ember before sinking back into flesh, leaving an angry red heat mark.",
+      "camera_direction": "Slow push-in from wide room view through the rain-streaked window to an extreme close-up of Aarav's trembling fingers pressing against the glowing birthmark.",
+      "atmosphere": "Claustrophobic, stormy, unsettling, and suspenseful.",
+      "dialogues": [
+        {
+          "character": "Aarav",
+          "text": "फिर से वही... क्या हो रहा है मुझे?",
+          "emotion": "Confused and in pain"
+        }
+      ],
+      "sound_effects": [
+        "Heavy rain hammering on tin and glass",
+        "Distant rolling thunder rumble",
+        "Subtle high-pitch resonance chime",
+        "Heavy, strained breathing"
+      ],
+      "background_music": "Low droning ambient cello layered with an uneasy wind chime frequency that abruptly cuts as the glow fades.",
+      "estimated_duration_seconds": 45
+    },
+    {
+      "scene_number": 2,
+      "location": "Kitchen and Dining Area, Aarav's Family Home",
+      "time": "Evening",
+      "characters": [
+        "Aarav",
+        "Yashoda",
+        "Jaya"
+      ],
+      "visual_description": "A cozy, warm Indian home filled with the aroma of freshly cooked food. Yellow incandescent lamp light paints the walls. Yashoda, a gentle woman in her late forties wearing a muted green kurta and dupatta, stirs steaming dal on the stove. Jaya, seventeen, wearing an oversized maroon hoodie and track pants with her black hair in a high ponytail, balances a stack of steel plates while sliding onto a dining stool. Aarav enters wearing his charcoal jacket over a dark grey t-shirt, discreetly adjusting his collar to hide his chest. Jaya notices his grimace instantly.",
+      "camera_direction": "Medium tracking shot following Aarav into the kitchen, cutting to an over-the-shoulder medium shot past Jaya toward Aarav.",
+      "atmosphere": "Warm, domestic, and emotionally grounded before impending darkness.",
+      "dialogues": [
+        {
+          "character": "Yashoda",
+          "text": "आरव, आ गए बेटा? हाथ धो लो, खाना बिल्कुल तैयार है।",
+          "emotion": "Warm and maternal"
+        },
+        {
+          "character": "Jaya",
+          "text": "इतनी देर लगा दी कॉलेज से आने में? Bhai, did you pick up my drawing pens or did you forget again?",
+          "emotion": "Playfully accusatory"
+        },
+        {
+          "character": "Aarav",
+          "text": "बैग में हैं, टेबल पर रखे हैं। आराम से, जया, कहीं भागे नहीं जा रहे तुम्हारे pens.",
+          "emotion": "Fond and teasing"
+        },
+        {
+          "character": "Yashoda",
+          "text": "आरव... चेहरा इतना उतरा हुआ क्यों लग रहा है? तबीयत तो ठीक है ना?",
+          "emotion": "Perceptive and concerned"
+        },
+        {
+          "character": "Aarav",
+          "text": "हाँ माँ, बस... थोड़ा सिर भारी था। मौसम बदल रहा है शायद।",
+          "emotion": "Gentle reassurance masking discomfort"
+        }
+      ],
+      "sound_effects": [
+        "Sizzling pan on stove",
+        "Clatter of steel thalis on wooden dining table",
+        "Distant mountain breeze rustling outer trees"
+      ],
+      "background_music": "Warm acoustic guitar accompanied by a gentle flute melody, creating a fragile feeling of family safety.",
+      "estimated_duration_seconds": 50
+    },
+    {
+      "scene_number": 3,
+      "location": "Verandah and Living Room, Family Home",
+      "time": "Evening",
+      "characters": [
+        "Aarav",
+        "Vasu"
+      ],
+      "visual_description": "Vasu, fifty-two, with salt-and-pepper hair, dressed in a simple brown shirt and dark sleeveless vest, stands at the edge of the verandah looking out toward the dark Himalayan ridge. Rain clouds are gathering menacingly fast over the valley. His expression is unusually heavy, jaw tense. Aarav steps out onto the wooden deck behind him holding two steel tumblers of tea. Vasu glances over his shoulder, his eyes lingering for a second on Aarav's upper chest before returning to the stormy horizon.",
+      "camera_direction": "Low-angle two-shot framing Vasu and Aarav against the brooding purple-black mountain storm clouds.",
+      "atmosphere": "Foreshadowing, quiet tension, and paternal vigilance.",
+      "dialogues": [
+        {
+          "character": "Aarav",
+          "text": "पापा, चाय। आप कब से यहाँ खड़े हैं? बाहर हवा बहुत ठंडी हो रही है।",
+          "emotion": "Caring and observant"
+        },
+        {
+          "character": "Vasu",
+          "text": "हवा सिर्फ ठंडी नहीं है, आरव। घाटी का मिज़ाज बदल रहा है। आज रात तूफान साधारण नहीं होगा।",
+          "emotion": "Somber and measured"
+        },
+        {
+          "character": "Aarav",
+          "text": "आप पिछले कुछ दिनों से परेशान दिख रहे हैं। कुछ हुआ है क्या?",
+          "emotion": "Curious and probing"
+        },
+        {
+          "character": "Vasu",
+          "text": "कुछ नहीं बेटा। बस याद रखना... कभी-कभी कुछ ज़िम्मेदारियाँ हमारे मांगने पर नहीं आतीं। वो हमारे खून में पहले से लिखी होती हैं।",
+          "emotion": "Deep, affectionate, and cryptic"
+        },
+        {
+          "character": "Aarav",
+          "text": "कैसी ज़िम्मेदारियाँ, पापा?",
+          "emotion": "Baffled"
+        }
+      ],
+      "sound_effects": [
+        "Steaming tea poured into stainless tumbler",
+        "Sudden gust of mountain wind shaking verandah chimes",
+        "Distant low thunder"
+      ],
+      "background_music": "Sparse, melancholic esraj notes blending with an ominous low-frequency electronic drone.",
+      "estimated_duration_seconds": 45
+    },
+    {
+      "scene_number": 4,
+      "location": "Ancient Ruined Stone Temple, Upper Dehradun Valley",
+      "time": "Dusk / Early Night",
+      "characters": [
+        "Acharya Vedant"
+      ],
+      "visual_description": "Deep in a dense pine forest overlooking the valley, weathered stone pillars of an ancient neglected temple stand half-swallowed by roots and moss. Acharya Vedant, sixty-four, with shoulder-length silver-grey hair, a neatly trimmed beard, and a weathered dark shawl over an off-white kurta, kneels before a carved stone dais bearing a sun medallion worn flat by centuries. A small bronze compass-like sundial device rests in his palm; its central needle vibrates uncontrollably. Fine stone dust rises from cracks in the temple floor against gravity for a split second, floating in mid-air before falling.",
+      "camera_direction": "Aerial establishing crane shot descending through pine trees to a tight close-up on Vedant's piercing, disciplined eyes.",
+      "atmosphere": "Ancient, sacred, mystical, and alarming.",
+      "dialogues": [
+        {
+          "character": "Acharya Vedant",
+          "text": "दिव्य स्पंदन... सहस्र वर्षों की निद्रा टूट रही है। यह कंपन स्वाभाविक नहीं है।",
+          "emotion": "Solemn and deeply alarmed"
+        },
+        {
+          "character": "Acharya Vedant",
+          "text": "यदि सूर्य की छाया हिलने लगी है... तो इसका अर्थ है कि रक्षक जाग चुका है। या फिर कोई उसे ढूंढने आ रहा है।",
+          "emotion": "Grave whisper"
+        }
+      ],
+      "sound_effects": [
+        "Crumbling stone resonance",
+        "Metallic needle vibrating rapidly",
+        "Wind howling through carved temple pillars",
+        "Crack of distant dry lightning"
+      ],
+      "background_music": "Sanskrit atmospheric chanting buried beneath deep bass rumbles and haunting traditional string swells.",
+      "estimated_duration_seconds": 50
+    },
+    {
+      "scene_number": 5,
+      "location": "Narrow Mountain Road overlooking Aarav's Settlement",
+      "time": "Night",
+      "characters": [],
+      "visual_description": "Rain begins to pour heavily over the winding asphalt. Parked under the shadow of overhanging deodar trees is a matte-black tactical SUV devoid of military insignia or registration plates. Inside the darkened cabin, illuminated only by high-resolution digital monitors, tactical scopes sweep over the topography. A thermal imaging screen targets the outline of Aarav's hillside house, tracking four heat signatures within. On a dashboard screen, an encrypted digital readout displays: 'UNIT SEVEN // COVERT SURVEILLANCE GRID // FREQUENCY SPIKE DETECTED'. A hand wearing black tactical gloves taps the console, transmitting coordinates.",
+      "camera_direction": "Slow tracking shot from outside the wet vehicle window into the glow of the tactical monitor displays, pulling back into the dark foliage.",
+      "atmosphere": "Technological, sinister, calculating, and detached.",
+      "dialogues": [],
+      "sound_effects": [
+        "Heavy rain drumming on car roof",
+        "Electronic scanning hum and computer clicks",
+        "Encrypted radio chirp and brief static hiss"
+      ],
+      "background_music": "Cold industrial synth pulses over rhythmic low-tempo percussion.",
+      "estimated_duration_seconds": 40
+    },
+    {
+      "scene_number": 6,
+      "location": "Living Room, Aarav's Home",
+      "time": "Night",
+      "characters": [
+        "Aarav",
+        "Vasu",
+        "Yashoda",
+        "Jaya"
+      ],
+      "visual_description": "The storm outside has intensified into a deluge. Inside, the ceiling lights flicker twice and abruptly extinguish, plunging the room into darkness save for the flashes of lightning through the windows. Yashoda strikes a match, lighting a brass diya on the wooden side table. Jaya gathers her sketchpad close. Vasu stands by the entryway window, carefully pulling the curtain back an inch. His body instantly stiffens. Through the rain, multiple silhouette figures in dark tactical raincoats with high-powered flashlights are approaching silently through the garden perimeter.",
+      "camera_direction": "Slow pan across the family illuminated by flickering candlelight, ending on an over-the-shoulder shot past Vasu's tense shoulder toward the silhouettes outside.",
+      "atmosphere": "Sudden suffocating dread and impending peril.",
+      "dialogues": [
+        {
+          "character": "Jaya",
+          "text": "Light चली गई... आज की रात हवा कुछ ज्यादा ही तेज नहीं है?",
+          "emotion": "Uneasy"
+        },
+        {
+          "character": "Yashoda",
+          "text": "चिंता मत करो, मैं मोमबत्तियाँ लाती हूँ। वासु, आप खिड़कियाँ बंद कर दीजिए—",
+          "emotion": "Calm maternal composure"
+        },
+        {
+          "character": "Vasu",
+          "text": "यशोदा, नहीं। सब लोग यहीं रुको। पीछे के दरवाजे की तरफ बढ़ो। अभी!",
+          "emotion": "Urgent and deadly serious"
+        },
+        {
+          "character": "Aarav",
+          "text": "पापा? क्या हुआ? बाहर कौन है?",
+          "emotion": "Startled and alert"
+        }
+      ],
+      "sound_effects": [
+        "Power buzzing off with sudden silence",
+        "Heavy thunderclap shaking the house foundation",
+        "Muddy combat boots crunching wet gravel outside",
+        "Metallic click of weapons being chambered"
+      ],
+      "background_music": "A sudden stop of the warm score replaced by a rising dissonant violin screech building sheer panic.",
+      "estimated_duration_seconds": 45
+    },
+    {
+      "scene_number": 7,
+      "location": "Front Door and Living Room, Aarav's Home",
+      "time": "Night",
+      "characters": [
+        "Aarav",
+        "Vasu",
+        "Yashoda",
+        "Jaya"
+      ],
+      "visual_description": "The heavy wooden front door is violently shattered inward by a breaching ram. Four heavily armed attackers in black tactical gear and faceless ballistic masks storm into the room, tactical rifle lights cutting blinding beams through the dust and rain spray. Their weapons are equipped with suppressors. Vasu reacts with shocking martial reflexes, overturning the heavy teakwood dining table to create a barricade and shoving Yashoda, Jaya, and Aarav toward the rear corridor.",
+      "camera_direction": "Handheld dynamic tracking shot following the debris explosion as attackers breach, whipping fast to Vasu's desperate defensive move.",
+      "atmosphere": "Chaotic, violent, terrifying, and concussive.",
+      "dialogues": [
+        {
+          "character": "Vasu",
+          "text": "आरव! जया और माँ को लेकर बेसमेंट की तरफ भागो! मुड़कर मत देखना!",
+          "emotion": "Roaring with desperate authority"
+        },
+        {
+          "character": "Aarav",
+          "text": "मैं आपको छोड़कर नहीं जाऊंगा! कौन हैं ये लोग?!",
+          "emotion": "Fierce defiance and terror"
+        },
+        {
+          "character": "Yashoda",
+          "text": "आरव, सुनो अपने पिता की बात! जया, मेरा हाथ पकड़ो!",
+          "emotion": "Panic-stricken"
+        }
+      ],
+      "sound_effects": [
+        "Explosive wooden door splinters tearing open",
+        "Heavy table crashing against tile floor",
+        "Shouted aggressive commands muffled by ballistic masks",
+        "Rain roaring in through the breached entrance"
+      ],
+      "background_music": "Aggressive war drums blended with frantic orchestral strings and distorted industrial brass.",
+      "estimated_duration_seconds": 45
+    },
+    {
+      "scene_number": 8,
+      "location": "Rear Corridor / Back Stairwell, Aarav's Home",
+      "time": "Night",
+      "characters": [
+        "Aarav",
+        "Yashoda",
+        "Jaya"
+      ],
+      "visual_description": "The narrow hallway is cast in shadows with strobe-like bursts of lightning flashing through the skylight. A second team of two masked attackers breaks through the rear glass doors, cutting off their escape route completely. Red laser sight dots sweep along the walls, locking instantly onto Jaya's chest. Yashoda gasps, her eyes widening in pure maternal instinct. Without hesitation, Yashoda lunges forward, shielding Jaya with her entire body as suppressed gunfire erupts.",
+      "camera_direction": "Slow motion medium shot as Yashoda throws herself across Jaya, the muzzle flashes illuminating their terrified expressions in stark high-contrast anime chiaroscuro.",
+      "atmosphere": "Heart-stopping horror and sudden unbearable tragedy.",
+      "dialogues": [
+        {
+          "character": "Yashoda",
+          "text": "जया! नहीं—!",
+          "emotion": "Desperate maternal scream"
+        },
+        {
+          "character": "Jaya",
+          "text": "माँ—!",
+          "emotion": "Screaming in sheer horror"
+        },
+        {
+          "character": "Aarav",
+          "text": "माँ! जया!",
+          "emotion": "Agonized scream of disbelief"
+        }
+      ],
+      "sound_effects": [
+        "Spitting suppressed gunshots (thud-thud-thud)",
+        "Glass shattering across the floor tiles",
+        "Heavy body impacts collapsing to the ground"
+      ],
+      "background_music": "The sound drops out into an eerie hollow ringing muffled under a mournful solo female vocal lament.",
+      "estimated_duration_seconds": 50
+    },
+    {
+      "scene_number": 9,
+      "location": "Rear Corridor, Aarav's Home",
+      "time": "Night",
+      "characters": [
+        "Aarav",
+        "Jaya",
+        "Vasu"
+      ],
+      "visual_description": "Yashoda lies lifeless on the floor, blood pooling across the pale tiles. Jaya, critically wounded beside her, trembles, her hand reaching out weakly toward Aarav. Aarav drops to his knees, his hands hovering over them in pure paralysis and shock. Vasu charges from behind the attackers with an antique iron fireplace poker, smashing one assailant into the wall with ferocious strength. The second attacker turns and fires a barrage point-blank into Vasu's chest and abdomen. Vasu staggers backward, blood soaking through his brown shirt, but his eyes remain locked on Aarav.",
+      "camera_direction": "Close-up on Aarav's wide, trembling dark brown eyes reflecting the horror, racking focus to Vasu falling against the door frame behind him.",
+      "atmosphere": "Devastating, raw, traumatic, and suffocating.",
+      "dialogues": [
+        {
+          "character": "Jaya",
+          "text": "भैया... दर्द... बहुत...",
+          "emotion": "Fading, trembling whisper"
+        },
+        {
+          "character": "Aarav",
+          "text": "जया, आँखें खुली रख! प्लीज! माँ! उठो कोई... प्लीज भगवान!",
+          "emotion": "Choked with tears and hyperventilating"
+        },
+        {
+          "character": "Vasu",
+          "text": "आरव... उठो... तुम्हें... जीना होगा...",
+          "emotion": "Gasping through blood and fading strength"
+        }
+      ],
+      "sound_effects": [
+        "Heavy dull thuds of bullets hitting flesh",
+        "Gasping choked breaths",
+        "Rain pouring inside through the broken corridor skylight",
+        "Distant thunder rolling continuously"
+      ],
+      "background_music": "Dark sweeping sorrowful sarangi melody soaring over muted bass pulses.",
+      "estimated_duration_seconds": 55
+    },
+    {
+      "scene_number": 10,
+      "location": "Rear Corridor / Shattered Living Room",
+      "time": "Night",
+      "characters": [
+        "Aarav",
+        "Vasu"
+      ],
+      "visual_description": "Jaya's hand slips lifelessly from Aarav's fingers. Aarav freezes, completely shattered inside. The two surviving lead attackers step over the fallen furniture, their boots splashing in rainwater and blood. The lead attacker, tall and broad, raises a tactical sidearm directly at Aarav's head, the cold steel barrel inches from Aarav's forehead. Aarav doesn't back away; his dark brown eyes are hollow, drowning in unfathomable grief and surging, primal rage. On Aarav's chest, his sun birthmark begins to burn through the charcoal jacket with blinding golden heat.",
+      "camera_direction": "Extreme low-angle shot looking up past the gun barrel into Aarav's defiant, tear-stained face.",
+      "atmosphere": "Peak suspense, life-and-death climax.",
+      "dialogues": [
+        {
+          "character": "Aarav",
+          "text": "तुम सब... सब कुछ छीन लिया तुमने...",
+          "emotion": "Whispering with venomous, trembling fury"
+        }
+      ],
+      "sound_effects": [
+        "Gun hammer clicking back into firing position",
+        "High-voltage electrical humming sound rising rapidly",
+        "Sizzling sound of cloth burning with divine heat"
+      ],
+      "background_music": "Dead silence except for a rising, crystalline supernatural frequency building toward a detonation.",
+      "estimated_duration_seconds": 50
+    },
+    {
+      "scene_number": 11,
+      "location": "Rear Corridor / Shattered Living Room",
+      "time": "Night",
+      "characters": [
+        "Aarav"
+      ],
+      "visual_description": "The attacker pulls the trigger. The muzzle flash ignites—but the bullet never reaches Aarav. In a fraction of a second, an explosion of warm golden light bursts from Aarav's chest. Geometric, interlocking radiant sun-patterns materialize in the air around him, forming an imperfect, translucent golden shield resembling ancient plate armor made of pure sunlight. The bullet flattens instantly against the golden geometry and ricochets into the ceiling. The shockwave of divine resonance detonates outward, blasting the two attackers backward through the air, throwing them violently through the shattered living room windows into the pouring rain.",
+      "camera_direction": "Dynamic rotation 360-degree shot around Aarav as the golden shield flares into full luminescence, catching light particles like molten sunrays before flickering erratically.",
+      "atmosphere": "Awe-inspiring, violent, supernatural awakening.",
+      "dialogues": [
+        {
+          "character": "Aarav",
+          "text": "आहह्ह्ह्ह्ह—!",
+          "emotion": "Raw, agonizing scream as power tears through him"
+        }
+      ],
+      "sound_effects": [
+        "Ear-splitting metallic clang of divine deflection",
+        "Thunderous concussive shockwave boom",
+        "Bodies crashing through wooden walls and glass outside",
+        "Golden energy crackling with solar heat"
+      ],
+      "background_music": "Massive mythological anime choral choir erupting with heavy brass, majestic yet terrifyingly uncontrolled.",
+      "estimated_duration_seconds": 55
+    },
+    {
+      "scene_number": 12,
+      "location": "Muddy Courtyard Outside Family Home",
+      "time": "Night",
+      "characters": [],
+      "visual_description": "Rain pours relentlessly into the mud. The two attackers scramble up from the broken splintered porch, their tactical uniforms smoking from scorching heat, armor plates cracked. Through the blown-open doorway, they stare into the blinding golden glow. Inside, the golden geometric shield begins to fragment like broken glass, dissipating into tiny shimmering golden sparks that dissolve into the damp air. Aarav falls hard to his knees inside, gasping for breath, clutching his searing chest. Over their tactical radio, frantic garbled static cuts through.",
+      "camera_direction": "Wide shot from the muddy courtyard framing the smoking attackers in the foreground looking back at the house bathed in fading golden radiance.",
+      "atmosphere": "Shock, panic, retreat, and supernatural dread.",
+      "dialogues": [],
+      "sound_effects": [
+        "Frantic radio static and urgent encrypted comms chatter",
+        "Mud sloshing under frantic retreating boots",
+        "Rapid car engine revving in the near distance"
+      ],
+      "background_music": "Pulsing dark bass synths that signal tactical retreat, fading into the relentless rain.",
+      "estimated_duration_seconds": 45
+    },
+    {
+      "scene_number": 13,
+      "location": "Shattered Corridor, Aarav's Home",
+      "time": "Night",
+      "characters": [
+        "Aarav",
+        "Vasu"
+      ],
+      "visual_description": "The house is deathly silent except for the rain pouring through the shattered roof. Aarav drags his exhausted, trembling body across the bloodstained floor to where Vasu lies slumped against the corridor wall. Vasu's breathing is shallow, his skin graying. Aarav cradles Vasu's head in his lap, tears cutting through the soot and blood on his cheeks. Vasu raises a bloody, trembling hand, pressing a small, heavy piece of weathered black iron into Aarav's palm. Beside Vasu, dropped during the struggle, lies a burnt encrypted comms transceiver unit dropped by the attackers; its cracked digital display blinks with an intercepted order: 'TARGET ACQUIRED // MALIK DIRECTIVE ACTIVE'.",
+      "camera_direction": "Slow, sorrowful top-down shot of Aarav holding Vasu, slowly pushing in tight to the blinking name 'MALIK' on the shattered tactical device.",
+      "atmosphere": "Heartbreaking grief, intimacy, and the birth of vengeance.",
+      "dialogues": [
+        {
+          "character": "Aarav",
+          "text": "पापा... रुकिए... मैं मदद लेकर आता हूँ... प्लीज मत छोड़िए मुझे...",
+          "emotion": "Sobbing uncontrollably"
+        },
+        {
+          "character": "Vasu",
+          "text": "आरव... सुनो... तुम्हारा कवच... जाग गया है। वो इसे छीनने आए थे...",
+          "emotion": "Weak, fading whisper"
+        },
+        {
+          "character": "Aarav",
+          "text": "कवच? कौन सा कवच? किसने भेजा इन्हें पापा?!",
+          "emotion": "Desperate for truth"
+        },
+        {
+          "character": "Vasu",
+          "text": "मालिक... वो... प्राचीन सत्य को जलाना चाहता है। आचार्य... वेदांत... उन्हें ढूंढो... वो जानते हैं...",
+          "emotion": "Final labored breath"
+        },
+        {
+          "character": "Aarav",
+          "text": "पापा? पापा! नहीं... नहीं नहीं नहीं! पापा!",
+          "emotion": "Gut-wrenching roar of agony"
+        }
+      ],
+      "sound_effects": [
+        "Faint final exhale of Vasu",
+        "Digital rhythmic beep from the cracked transceiver displaying 'MALIK'",
+        "Loud thunderclap echoing across the valley"
+      ],
+      "background_music": "Devastating solo cello joined by a mournful bansuri flute, building into profound tragic silence.",
+      "estimated_duration_seconds": 60
+    },
+    {
+      "scene_number": 14,
+      "location": "Upper Mountain Ridge Overlooking Valley",
+      "time": "Night",
+      "characters": [
+        "General Rahman"
+      ],
+      "visual_description": "High on a rocky cliff overlooking the smoking remnants of Aarav's hillside home, General Rahman, fifty-five, stands impassively in a dark tactical field coat against the howling storm. His mature face with a prominent jaw and the scar over his right eyebrow are carved in sharp shadows by lightning. Behind him, two Unit Seven operatives hold telemetry screens monitoring the energy flare. Rahman lowers a pair of high-grade digital binoculars. On the screen beside him, a holographic spike reads: 'DIVYA RESONANCE CONFIRMED // SEAL BREACHED'.",
+      "camera_direction": "Low-angle medium profile shot of Rahman against the stormy sky, slowly tracking to reveal the burning ruin far below in the valley.",
+      "atmosphere": "Cold, strategic, morally ambiguous, and imposing.",
+      "dialogues": [
+        {
+          "character": "General Rahman",
+          "text": "तो यह सच था। सूर्य का अंश मरा नहीं है।",
+          "emotion": "Cold, composed, and calculating"
+        },
+        {
+          "character": "General Rahman",
+          "text": "यूनिट को सूचित करो। लड़के को खोना नहीं है। लेकिन अभी हस्तक्षेप मत करना। देखना है कि वह इस आग को झेल पाता है या जल जाता है।",
+          "emotion": "Strategic and unemotional"
+        }
+      ],
+      "sound_effects": [
+        "Wind howling over high mountain rocks",
+        "Subtle electronic beeps of tactical telemetry",
+        "Radio transceiver click"
+      ],
+      "background_music": "Deep military percussion accompanied by dark, ambiguous brass horns.",
+      "estimated_duration_seconds": 45
+    },
+    {
+      "scene_number": 15,
+      "location": "Ruins of Aarav's Living Room",
+      "time": "Night / Pre-dawn",
+      "characters": [
+        "Aarav"
+      ],
+      "visual_description": "Rain trickles into the silent, destroyed room. Aarav slowly stands up among the wreckage. His face is pale, smudged with soot and rain, eyes transformed from the carefree youth of the morning into hardened, traumatized resolve. He holds the cracked transceiver tight in his bloody knuckles; the name 'MALIK' glows faintly in dull amber. His dark jacket is torn at the chest, revealing the sun-shaped birthmark, which now pulses with a quiet, microscopic golden ember beneath his skin. He looks down at his fallen family one last time, pulls his collar up, and steps out into the dark storm.",
+      "camera_direction": "Slow tracking shot from behind Aarav as he walks out of the ruined doorway into the darkness, turning slightly in profile to reveal his cold, determined gaze.",
+      "atmosphere": "Grim, resolute, haunting, and cinematic.",
+      "dialogues": [
+        {
+          "character": "Aarav",
+          "text": "मलिक... चाहे तुम दुनिया के किसी भी कोने में छुप जाओ... मैं आ रहा हूँ।",
+          "emotion": "Quiet, steely, unbreakable vow"
+        }
+      ],
+      "sound_effects": [
+        "Boots stepping over broken glass and wet debris",
+        "Steady rhythm of receding rainfall",
+        "Deep metallic resonance of the ancient iron token in his pocket"
+      ],
+      "background_music": "A dark, rising orchestral crescendo carrying a dark heroic theme that blends modern orchestral strings with ancient percussion.",
+      "estimated_duration_seconds": 45
+    },
+    {
+      "scene_number": 16,
+      "location": "Ancient Temple Courtyard, Upper Dehradun",
+      "time": "Pre-dawn",
+      "characters": [
+        "Acharya Vedant"
+      ],
+      "visual_description": "Rain gently douses the ancient stone courtyard. Acharya Vedant stands before the sacred stone altar where the carved sun insignia has cracked down the center, glowing with a lingering thread of golden mist that drifts upward toward the storm clouds. Vedant holds an ancient weathered palm-leaf manuscript in one hand, gazing out toward the distant valley where the shockwave erupted. A flash of lightning crowns the temple spire behind him.",
+      "camera_direction": "Slow push-in from wide temple courtyard to a tight dramatic close-up of Acharya Vedant's eyes as lightning illuminates his face.",
+      "atmosphere": "Monumental, mythic, foreboding, and cliffhanger tension.",
+      "dialogues": [
+        {
+          "character": "Acharya Vedant",
+          "text": "कवच ने अपनी पहली हुंकार भर दी है...",
+          "emotion": "Deep, reverent awe"
+        },
+        {
+          "character": "Acharya Vedant",
+          "text": "सहस्र वर्षों से बंद द्वार खुल चुका है। अब यह युद्ध कोई नहीं रोक सकता।",
+          "emotion": "Grave, prophetic cliffhanger delivery"
+        }
+      ],
+      "sound_effects": [
+        "Deep resonant temple bell chime ringing from far away",
+        "Rumble of distant storm rolling over the Himalayas",
+        "Sizzling dissipation of divine golden mist"
+      ],
+      "background_music": "Epic swelling orchestral crescendo with thunderous Indian traditional percussion (dhol/nagada) hitting one monumental final beat before sudden silence.",
+      "estimated_duration_seconds": 40
+    }
+  ],
+  "ending_cliffhanger": "At the ancient ruined mountain temple, the stone sun medallion cracks open with lingering golden mist as Acharya Vedant watches the storm-torn valley and proclaims that the thousand-year-old sealed door has officially opened, igniting an unstoppable conflict.",
+  "episode_summary": "Aarav's ordinary life in Dehradun is violently demolished when masked operatives raid his family home seeking a sealed secret Vasu guarded. Yashoda and Jaya are killed, and Vasu is fatally shot. Facing death, Aarav's sun birthmark unpredictably triggers an unstable golden geometric shield of divine energy that deflects incoming bullets and blasts the attackers away. Vasu dies in Aarav's arms after warning him about 'Malik' and directing him to seek Acharya Vedant. Meanwhile, Unit Seven's General Rahman monitors the energy burst from afar, and Acharya Vedant witnesses ancient temple relics awakening to the unsealed legacy.",
+  "continuity_updates": [
+    "Yashoda and Jaya are dead; their deaths are permanent.",
+    "Vasu is dead after giving Aarav a weathered black iron keepsake and warning him to find Acharya Vedant.",
+    "Aarav has unlocked an involuntary, unstable golden shield manifestation connected to his sun birthmark, but cannot consciously control it and suffers intense physical exhaustion from its use.",
+    "Aarav possesses a cracked tactical transceiver displaying the antagonist codename: 'MALIK'.",
+    "Unit Seven and General Rahman have officially confirmed the awakening of the 'Divya Resonance' and are tracking Aarav without his knowledge.",
+    "Acharya Vedant has detected the resonance spike at the ancient ruined temple and knows the ancient sealed door has opened."
+  ],
+  "calculated_duration_seconds": 765,
+  "calculated_duration_minutes": 12.75
+}
